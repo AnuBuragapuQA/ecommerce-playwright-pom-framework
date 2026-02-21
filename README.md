@@ -62,14 +62,7 @@ Page Object Model (POM)
 Git & GitHub
 GitHub Actions (CI/CD Ready)
 
-🛠 Installation & Setup
-Clone the repository
-git clone https://github.com/sasiddiq/ecommerce-playwright-pom-framework.git
-cd ecommerce-playwright-pom-framework
-Install dependencies
-npm install
-Install Playwright browsers (first-time setup)
-npx playwright install
+
 
 ▶️ Running Tests
 Run all tests
